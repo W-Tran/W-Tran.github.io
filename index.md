@@ -1,4 +1,4 @@
-[CV](google.co.uk) | [LinkedIn](google.co.uk)
+[CV](http://github.com) | [LinkedIn](http://github.com)
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
