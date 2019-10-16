@@ -6,7 +6,7 @@
 
 ### Advanced Regression Techniques
 
-### Udacity A/B testing by Google
+### (Udacity) A/B testing by Google
 
 ### Home Credit Risk modelling
 
@@ -14,4 +14,6 @@
 
 ### Predicting Heart Disease Mortality
 
-### CS231n Convolutional Neural Networks for Visual Recognition (2018)
+### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018)
+
+### (Udemy) Master SQL For Data Science 
