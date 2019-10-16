@@ -1,4 +1,4 @@
-# Data Science / Machine Learning projects
+# [CV] | [LinkedIn]
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
