@@ -5,3 +5,13 @@
 ### Customer churn prediction
 
 ### Advanced Regression Techniques
+
+### Udacity A/B testing by Google
+
+### Home Credit Risk modelling
+
+### Identifying Malaria in Blood Imagery
+
+### Predicting Heart Disease Mortality
+
+### CS231n Convolutional Neural Networks for Visual Recognition (2018)
