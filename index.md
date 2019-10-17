@@ -2,17 +2,17 @@
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
-### Customer churn prediction
+### Customer Churn prediction
 
-### Advanced Regression Techniques
+### (Kaggle) Advanced Regression Techniques
 
 ### (Udacity) A/B testing by Google
 
-### Home Credit Risk modelling
+### (Kaggle) Home Credit Risk modelling
 
-### Identifying Malaria in Blood Imagery
+### (Microsoft) Identifying Malaria in Blood Imagery
 
-### Predicting Heart Disease Mortality
+### (Microsoft) Predicting Heart Disease Mortality
 
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018)
 
