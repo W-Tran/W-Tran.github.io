@@ -2,7 +2,7 @@
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
-### Predicting next purchase day (Survival analysis as a classification problem)
+### Predicting next purchase day (Survival analysis as a Classification problem)
 
 ### Customer Churn prediction
 
