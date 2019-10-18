@@ -2,6 +2,8 @@
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
+Use RFM summary statistics combined with a BG/NBD model to forecast the number of transactions customers will make as well as the total value of the transactions in a future period. Using the RFM of each customer, perform customer segmentation to figure out who the best customers are and briefly discuss some potential marketing strategies.
+
 ### Predicting next purchase day (Survival analysis as a Classification problem)
 
 ### Customer Churn prediction
