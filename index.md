@@ -2,6 +2,8 @@
 
 ### Customer Lifetime Value modelling and Customer Segmentation
 
+### Predicting next purchase day (Survival analysis as a classification problem)
+
 ### Customer Churn prediction
 
 ### (Kaggle) Advanced Regression Techniques
