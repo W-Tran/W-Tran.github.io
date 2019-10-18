@@ -1,6 +1,6 @@
 [CV](http://github.com) | [LinkedIn](http://github.com)
 
-### Customer Lifetime Value modelling and Customer Segmentation
+### Customer Lifetime Value modelling and Customer Segmentation - [link](https://github.com/W-Tran/Online-Retail)
 
 An analysis of a [popular E-Commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics combined with a BG/NBD model to forecast the number of transactions customers will make, as well as the total value of the transactions, in a future period. Using the RFM of each customer, perform customer segmentation to figure out who the best customers are and briefly discuss some potential marketing strategies to increase revenue going forward.
 
