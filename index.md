@@ -9,7 +9,7 @@ In the project above, the total number of transactions a customer will make in a
 
 ### Customer Churn prediction
 
-### (Kaggle) Advanced Regression Techniques
+### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
 A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and applying advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found in this project was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as **model interpretability** was a priority and was discussed at length torwards the end of the project.   
 
