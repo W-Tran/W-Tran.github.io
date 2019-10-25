@@ -7,15 +7,14 @@ An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/dat
 ### Predicting next purchase day (Survival Analysis as a Classification)
 In the project above, the total number of transactions a customer will make in a future period was forecasting using a BG/NBD model. However the model is unable to predict on exactly which day a customer is likely make a transaction, nor is it able to provide a distribution over the future time period showing the likeliest transaction days. In this project the dataset was reformulated into **Discrete Time Events** and analysed using a **Survival Model** to perform the aforementioned forecasting.
 
-### Customer Churn prediction
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
 A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found in this project was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as **model interpretability** was a priority and was discussed at length torwards the end of the project.   
 
-### (Udacity) A/B testing by Google
-
 ### (Microsoft DAT102x) Predicting Evictions
+
+### (Udacity) A/B testing by Google
 
 ### (Microsoft DAT264x) Identifying Malaria in Blood Imagery
 
@@ -25,4 +24,3 @@ A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advance
 
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018)
 
-### (Udemy) Master SQL For Data Science 
