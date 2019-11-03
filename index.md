@@ -4,10 +4,10 @@
 
 An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use **RFM summary statistics** combined with a **BG/NBD model** to forecast the total number of transactions customers will make, as well as the total value of the transactions, in a future period (known as **Customer Lifetime Value** modelling). Also, using the RFM value of each customer, perform **Customer Segmentation** to figure out who the best customers are and briefly discuss some potential marketing strategies to increase revenue going forward.
 
-### Predicting next purchase day (Survival Analysis as a Classification) - [link](https://github.com/W-Tran/Online-Retail)
-In the project above, the total number of transactions a customer will make in a future period was forecasting using a BG/NBD model. However the model is unable to predict on exactly which day a customer is likely make a transaction, nor is it able to provide a distribution over the future time period showing the likeliest transaction days. In this project the dataset was reformulated into **Discrete Time Events** and analysed using a **Survival Model** to perform the aforementioned forecasting.
+### Predicting next purchase day: Discrete Survival Logistic Regression - [link](https://github.com/W-Tran/Online-Retail)
+In the project above, the total number of transactions a customer will make in a future period was forecasting using a BG/NBD model. However the model is unable to predict on exactly which day a customer is likely make a transaction, nor is it able to provide a distribution over the future time period showing the likeliest transaction days. In this project the dataset was reformulated into **Discrete Time Events**, suitable for fitting a **Proportional Hazards model**, to perform the aforementioned forecasting.
 
-### Uplift modelling
+### Uplift modelling for Direct Marketing [link](https://github.com/W-Tran/uplift-modelling)
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
