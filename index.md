@@ -25,7 +25,7 @@ Microsoft Professional Program for Artificial Intelligence [capstone project](ht
 
 ### (Microsoft DAT102x) Predicting Heart Disease Mortality
 
-Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended July 31, 2018. Achieved top 7% on the leaderboard (36/512) .
+Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended July 31, 2018. Achieved top 7% on the leaderboard (36/512).
 
 ### (Kaggle) Home Credit Risk modelling
 
