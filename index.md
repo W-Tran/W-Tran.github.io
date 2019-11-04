@@ -15,11 +15,11 @@ In the project above, future customer transactions was forecasted using a BG/NBD
 
 A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found in this project was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as model interpretability was a priority and was discussed at length torwards the end of the project.   
 
-### (Microsoft DAT102x) Predicting Evictions
+### (Microsoft DAT102x) Predicting Evictions - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
 
 Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended May 15, 2019. Achieved top 8% on the leaderboard (42/563) using an ensemble of regression models including Random Forests and GBDTs .
 
-### (Microsoft DAT264x) Identifying Malaria in Blood Imagery - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
+### (Microsoft DAT264x) Identifying Malaria in Blood Imagery
 
 Microsoft Professional Program for Artificial Intelligence [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended June 30, 2019. Achieved top 2% on the leaderboard (11/465) using a 5 model ensemble of DenseNet121s.
 
