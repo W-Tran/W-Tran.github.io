@@ -1,6 +1,6 @@
 [CV](http://github.com) | [LinkedIn](http://github.com)
 
-### Uplift modelling for Direct Marketing [link](https://github.com/W-Tran/uplift-modelling)
+### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
 
 ### Customer Lifetime Value modelling and Customer Segmentation - [link](https://github.com/W-Tran/Online-Retail)
 
