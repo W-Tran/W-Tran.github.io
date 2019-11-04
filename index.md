@@ -29,7 +29,10 @@ Microsoft Professional Program for Data Science [capstone project](https://datas
 
 ### (Kaggle) Home Credit Risk modelling
 
-### (Udacity) A/B testing by Google
+### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
-### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018)
+My summary notes for the free A/B testing Udacity course by Google
 
+### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
+
+Completed assignments for the [Spring (2018)](http://cs231n.stanford.edu/2018/) semester. 
