@@ -31,7 +31,7 @@ Microsoft Professional Program for Data Science [capstone project](https://datas
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
-My summary notes for the free A/B testing Udacity course by Google
+My summary notes for the [A/B testing Udacity course](https://www.udacity.com/course/ab-testing--ud257) by Google
 
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
 
