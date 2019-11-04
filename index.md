@@ -17,13 +17,17 @@ A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advance
 
 ### (Microsoft DAT102x) Predicting Evictions
 
-### (Udacity) A/B testing by Google
+Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended May 15, 2019. Achieved **top 8%** on the leaderboard (42/563) using an ensemble of regression models including Random Forests and GBDTs .
 
-### (Microsoft DAT264x) Identifying Malaria in Blood Imagery
+### (Microsoft DAT264x) Identifying Malaria in Blood Imagery - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
+
+Microsoft Professional Program for Artificial Intelligence [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended June 30, 2019. Achieved **top 2%** on the leaderboard (11/465) using a 5 model ensemble of DenseNet121s.
 
 ### (Microsoft DAT102x) Predicting Heart Disease Mortality
 
 ### (Kaggle) Home Credit Risk modelling
+
+### (Udacity) A/B testing by Google
 
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018)
 
