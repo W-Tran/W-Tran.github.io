@@ -35,6 +35,6 @@ Kaggle competition that I worked through with the guidance of other community me
 
 My summary notes for the [A/B testing Udacity course](https://www.udacity.com/course/ab-testing--ud257) by Google.
 
-### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
+### (Stanford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
 
 Completed assignments for the [Spring (2018)](http://cs231n.stanford.edu/2018/) semester. 
