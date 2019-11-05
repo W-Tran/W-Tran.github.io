@@ -38,3 +38,6 @@ My summary notes for the [A/B testing Udacity course](https://www.udacity.com/co
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
 
 Completed assignments for the [Spring (2018)](http://cs231n.stanford.edu/2018/) semester. 
+
+
+### TESTING TESTING 1 2 3
