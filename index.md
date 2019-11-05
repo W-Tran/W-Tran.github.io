@@ -27,7 +27,9 @@ Microsoft Professional Program for Artificial Intelligence [capstone project](ht
 
 Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended July 31, 2018. Achieved top 7% on the leaderboard (36/512).
 
-### (Kaggle) Home Credit Risk modelling
+### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
+
+Kaggle competition that I worked through with the guidance of other community member's notebooks. Learned a great deal about creating and aggregating features from multiple tables within a relational database.
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
