@@ -33,7 +33,7 @@ Kaggle competition that I worked through with the guidance of other community me
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
-My summary notes for the [A/B testing Udacity course](https://www.udacity.com/course/ab-testing--ud257) by Google
+My summary notes for the [A/B testing Udacity course](https://www.udacity.com/course/ab-testing--ud257) by Google.
 
 ### (Standford) CS231n Convolutional Neural Networks for Visual Recognition (2018) - [link](https://github.com/W-Tran/CS231n-2018)
 
