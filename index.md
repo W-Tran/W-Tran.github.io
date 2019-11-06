@@ -6,7 +6,7 @@ Who should marketers send promotional offers to in order to retain customers and
 
 ### Customer Lifetime Value modelling and Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics combined with a BG/NBD model to forecast the total number and value of transactions that existing customers will make future period. Cluster on the RFM features of each customer to perform segmentation to figure out which customers are most valuable.
+An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics combined with a BG/NBD model to forecast the total number and value of transactions that existing customers will make in a future period. Cluster on the RFM features of each customer to perform segmentation to figure out which customers are most valuable.
 
 ### Predicting next purchase day: Discrete Survival Logistic Regression - [link](https://github.com/W-Tran/online-Retail)
 In the project above, future customer transactions was forecasted using a BG/NBD model. The model however is unable to predict on exactly which day a customer is likely make a transaction, nor is it able to provide a distribution over the future time period showing the likeliest transaction days. In this project the dataset was reformulated into Discrete Time Events, suitable for fitting a Proportional Hazards model, to perform the aforementioned forecasting.
