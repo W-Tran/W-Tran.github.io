@@ -6,10 +6,10 @@ Who should marketers send promotional offers to in order to retain customers and
 
 ### Customer Lifetime Value modelling and Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics combined with a BG/NBD model to forecast the total number and value of transactions that existing customers will make in a future period. Cluster on the RFM features of each customer to perform segmentation to figure out which customers are most valuable.
+An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics to cluster and segment customers based on their transaction history to distinguish between high and low value customers. Evaluate the clustering using the second year of transaction histories.
 
 ### Predicting next purchase day: Discrete Survival Logistic Regression - [link](https://github.com/W-Tran/online-Retail)
-In the project above, future customer transactions was forecasted using a BG/NBD model. The model however is unable to predict on exactly which day a customer is likely make a transaction, nor is it able to provide a distribution over the future time period showing the likeliest transaction days. In this project the dataset was reformulated into Discrete Time Events, suitable for fitting a Proportional Hazards model, to perform the aforementioned forecasting.
+Using the same online retail data set, produce a classification model to predict whether a customer will purchase within the next month. The model is trained using the pervious month's transactions as labels whilst RFM summary statistics as well as other engineered features are used to train the model.
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
@@ -29,7 +29,7 @@ Microsoft Professional Program for Data Science [capstone project](https://datas
 
 ### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
 
-Kaggle competition that I worked through with the guidance of other community member's notebooks. Learned a great deal about creating and aggregating features from multiple tables within a relational database.
+A Kaggle competition that was studied and worked through with the guidance of other community member's notebooks. Gained experience with creating and aggregating features from multiple tables within a relational database.
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
