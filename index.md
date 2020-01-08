@@ -6,10 +6,10 @@ Who should marketers send promotional offers to in order to retain customers and
 
 ### Customer Lifetime Value modelling and Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of a [popular E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the transaction history for a Uk-based non-store online retail. Use RFM summary statistics to cluster and segment customers based on their transaction history to distinguish between high and low value customers. Evaluate the clustering using the second year of transaction histories.
+An analysis of an [E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the 2 year transaction history of customers for a Uk-based non-store online retail. Compare the performance of clustering customers, based on their 1st year transaction histories, using RFM or simple monetary aggregation features by assessing how well they segment high value customers. The value of customers are determined by their 2nd year residual lifetime value.
 
-### Predicting next purchase day: Discrete Survival Logistic Regression - [link](https://github.com/W-Tran/predicting-next-purchase)
-Using the same online retail data set, produce a classification model to predict whether a customer will purchase within the next month. The model is trained using the pervious month's transactions as labels whilst RFM summary statistics as well as other engineered features are used to train the model.
+### Predicting next purchase day - [link](https://github.com/W-Tran/predicting-next-purchase)
+Using the same online retail data set, produce a classification model to predict whether a customer will purchase within the next month. The model is trained using the pervious month's transactions as labels whilst RFM as well as other temporal and monetary aggregation features are used to train the model.
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
@@ -17,15 +17,15 @@ A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advance
 
 ### (Microsoft DAT102x) Predicting Evictions - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
 
-Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended May 15, 2019. Achieved top 8% on the leaderboard (42/563) using an ensemble of regression models including Random Forests and GBDTs .
-
-### (Microsoft DAT264x) Identifying Malaria in Blood Imagery - [link](https://github.com/W-Tran/DAT264x-identifying-malaria)
-
-Microsoft Professional Program for Artificial Intelligence [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended June 30, 2019. Achieved top 2% on the leaderboard (11/465) using a 5 model ensemble of DenseNet121s.
+Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended May 15, 2019. Achieved top 8% on the leaderboard (42/563) using an ensemble of regression models including Random Forests and GBDTs.
 
 ### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
 
 A Kaggle competition that was studied and worked through with the guidance of other community member's notebooks. Gained experience with creating and aggregating features from multiple tables within a relational database.
+
+### (Microsoft DAT264x) Identifying Malaria in Blood Imagery - [link](https://github.com/W-Tran/DAT264x-identifying-malaria)
+
+Microsoft Professional Program for Artificial Intelligence [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended June 30, 2019. Achieved top 2% on the leaderboard (11/465) using a 5 model ensemble of DenseNet121s.
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
