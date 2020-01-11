@@ -1,15 +1,15 @@
 [CV](http://github.com) | [LinkedIn](http://github.com)
 
-### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
-
-Who should marketers send promotional offers to in order to retain customers and increase profit? blindly contacting customers could result in the opposite intended effect due to ["sleeping dogs"](http://stochasticsolutions.com/pdf/CrossSell.pdf). This project follows the methodology of a [recent paper](https://journals.sagepub.com/doi/10.1509/jmr.16.0163) in order to show the effectiveness of uplift modelling on a popular [marketing dataset](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html). 
-
 ### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
 An analysis of an [E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the 2 year transaction history of customers for a Uk-based non-store online retail. Compare the performance of clustering customers, based on their 1st year transaction histories, using RFM or simple monetary aggregation features by assessing how well they segment high value customers. The value of customers are determined by their 2nd year residual lifetime value.
 
 ### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
 Using the same online retail data set, produce a classification model to predict whether a customer will purchase within the next month. The model is trained using the pervious month's transactions as labels whilst RFM as well as other temporal and monetary aggregation features are used to train the model.
+
+### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
+
+Who should marketers send promotional offers to in order to retain customers and increase profit? blindly contacting customers could result in the opposite intended effect due to ["sleeping dogs"](http://stochasticsolutions.com/pdf/CrossSell.pdf). This project follows the methodology of a [recent paper](https://journals.sagepub.com/doi/10.1509/jmr.16.0163) in order to show the effectiveness of uplift modelling on a popular [marketing dataset](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html). 
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
