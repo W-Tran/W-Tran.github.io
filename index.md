@@ -8,7 +8,7 @@ Who should marketers send promotional offers to in order to retain customers and
 
 An analysis of an [E-commerce dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the 2 year transaction history of customers for a Uk-based non-store online retail. Compare the performance of clustering customers, based on their 1st year transaction histories, using RFM or simple monetary aggregation features by assessing how well they segment high value customers. The value of customers are determined by their 2nd year residual lifetime value.
 
-### Predicting next purchase day - [link](https://github.com/W-Tran/predicting-next-purchase)
+### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
 Using the same online retail data set, produce a classification model to predict whether a customer will purchase within the next month. The model is trained using the pervious month's transactions as labels whilst RFM as well as other temporal and monetary aggregation features are used to train the model.
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
