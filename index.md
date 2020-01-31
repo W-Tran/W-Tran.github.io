@@ -1,11 +1,20 @@
 [CV](http://github.com) | [LinkedIn](http://github.com)
 
+### London Bike Share Forecasting - [link](https://github.com/W-Tran/london-bike-share)
+
+A time series analysis of [hourly and daily cycle shares in London](https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset) from 1/1/2015 to 1/1/2017 which examines how weather conditions influence the number of cycle shares on a daily and hourly basis. The analysis performed was adapted from and influenced by a similar analysis on [cycling counts in Auckland, New Zealand](https://cdn.rawgit.com/nicolasfauchereau/Auckland_Cycling/master/notebooks/Auckland_cycling_and_weather.html) with a few distinct differences:
+
+- The parameters of the forecasting model were tuned to fit the London count data
+- Hourly forecasts were produced on top of daily forecasts
+- Daily seasonal patterns (conditional on weekday vs weekend) were used to aid the fit of the hourly forecasting model
+- [Simulated historical forecasts](https://facebook.github.io/prophet/docs/diagnostics.html) were used to evaluate the models
+
 ### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of two [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [datasets](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of the 2 year transaction history of customers for a Uk-based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories, using RFM or simple monetary aggregation features, by assessing how well they segment high value customers where the value of customers are determined by their 2nd year residual lifetime value.
+An analysis of two [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [datasets](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a Uk-based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features compared to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year high value customers.
 
 ### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
-Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous month's transactions as labels whilst RFM, temporal, and monetary aggregation features are used to train the model in order to predict whether a customer will purchase within the next month.
+Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous L (lag) month's transactions as labels whilst RFM, temporal, and monetary aggregation features are used to train the model in order to predict whether a customer will purchase within the next month.
 
 ### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
 
@@ -19,13 +28,13 @@ A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advance
 
 Microsoft Professional Program for Data Science [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended May 15, 2019. Achieved top 8% on the leaderboard (42/563) using an ensemble of regression models including Random Forests and GBDTs.
 
-### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
-
-A Kaggle competition that was studied and worked through with the guidance of other community member's notebooks. Gained experience with creating and aggregating features from multiple tables within a relational database.
-
 ### (Microsoft DAT264x) Identifying Malaria in Blood Imagery - [link](https://github.com/W-Tran/DAT264x-identifying-malaria)
 
 Microsoft Professional Program for Artificial Intelligence [capstone project](https://datasciencecapstone.org/competitions/12/predicting-evictions/) which ended June 30, 2019. Achieved top 2% on the leaderboard (11/465) using a 5 model ensemble of DenseNet121s.
+
+### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
+
+A Kaggle competition that was studied and worked through with the guidance of other community member's notebooks. Gained experience with creating and aggregating features from multiple tables within a relational database.
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
