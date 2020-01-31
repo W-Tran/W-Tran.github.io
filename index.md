@@ -1,4 +1,4 @@
-[CV](http://github.com) | [LinkedIn](http://github.com)
+[CV](https://resume.creddle.io/resume/1ojqyqemcs8) | LinkedIn
 
 ### London Bike Share Forecasting - [link](https://github.com/W-Tran/london-bike-share)
 
