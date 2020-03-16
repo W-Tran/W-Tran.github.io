@@ -11,7 +11,7 @@ A time series analysis of [hourly and daily cycle shares in London](https://www.
 
 ### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of two [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [datasets](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a Uk-based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year customers into value groups.
+An analysis of two [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [datasets](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a UK based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year customers into value groups.
 
 ### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
 Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous L (lag) month's transactions as labels whilst RFM, temporal, and monetary aggregation features were used to train the model in order to predict whether a customer will purchase within the next month.
@@ -34,7 +34,7 @@ Microsoft Professional Program for Artificial Intelligence [capstone project](ht
 
 ### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
 
-A Kaggle competition that was studied and worked through with the guidance of other community member's notebooks. Gained experience with creating and aggregating relational data across multiple tables to build and automatically tune a LightGBM classifier.
+A Kaggle competition that was studied and worked through using the guidance of other community member's notebooks. Gained experience with creating and aggregating relational data across multiple tables to build and automatically tune a LightGBM classifier.
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
