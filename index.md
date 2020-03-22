@@ -11,18 +11,18 @@ A time series analysis of [hourly and daily cycle shares in London](https://www.
 
 ### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
 
-An analysis of two [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [datasets](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a UK based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year customers into value groups.
+An analysis of an [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a UK based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year customers into value groups.
 
 ### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
-Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous L (lag) month's transactions as labels whilst RFM, temporal, and monetary aggregation features were used to train the model in order to predict whether a customer will purchase within the next month.
+Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous L (lag) month's transactions as labels whilst RFM, temporal, and monetary aggregation features were used to train the model in order to predict whether a customer will purchase within the next month. Calibration and holdout sets needed to be created for each observation end period to prevent data leakage, akin to how one would split time series data.
 
 ### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
 
-Who should marketers send promotional offers to in order to retain customers and increase profit? blindly contacting customers could result in the opposite intended effect due to ["sleeping dogs"](http://stochasticsolutions.com/pdf/CrossSell.pdf). This project follows the methodology of a [recent paper](https://journals.sagepub.com/doi/10.1509/jmr.16.0163) in order to show the effectiveness of uplift modelling on a popular [marketing dataset](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html). 
+Who should marketers send promotional offers to in order to retain customers and increase profit? blindly contacting customers could result in the opposite intended effect [("sleeping dogs")](http://stochasticsolutions.com/pdf/CrossSell.pdf). This project follows the methodology of a [recent paper](https://journals.sagepub.com/doi/10.1509/jmr.16.0163) in order to show the effectiveness of uplift modelling on a popular [marketing dataset](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html). I use the Pylift package which implements the transformed outcome method for uplift modelling. 
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
-A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found in this project was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as model interpretability was a priority and was discussed at length torwards the end of the project.   
+A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found for this data was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as model interpretability was a priority and was discussed at length torwards the end of the project notebook.   
 
 ### (Microsoft DAT102x) Predicting Evictions - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
 
@@ -34,7 +34,7 @@ Microsoft Professional Program for Artificial Intelligence [capstone project](ht
 
 ### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
 
-A Kaggle competition that was studied and worked through using the guidance of other community member's notebooks. Gained experience with creating and aggregating relational data across multiple tables to build and automatically tune a LightGBM classifier.
+A Kaggle competition that was studied and worked through using the guidance of other community member's notebooks. Gained experience creating and aggregating data across multiple relational tables and using it to build a LightGBM classifier which scales well with the large amount of data being utilied. Also automatically tune the classifier using [HyperOpt](https://github.com/hyperopt/hyperopt).
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
