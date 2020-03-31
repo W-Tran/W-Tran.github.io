@@ -1,5 +1,11 @@
 [CV](https://resume.creddle.io/resume/1ojqyqemcs8) | [Github Profile](https://github.com/W-Tran) | LinkedIn
 
+### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
+
+An analysis of 2 years of transaction history data from a real UK based online retailer. Both years of the dataset can be found on the UCI Machine Learning Repository ([first year](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II), [second year](https://archive.ics.uci.edu/ml/datasets/Online+Retail)).
+
+The analysis shows that highly profitable customer value groups can be identified by segmenting customers based on their first year purchasing behaviour. The highest value customer groups ended up making the largest number of high value purchases in their second year of purchasing. Attempting to segment customers into value groups based on their RFM statistics resulted in notable second year outliers which were customers identified to be low value but ended up purchasing a large amount in their second year. Using a GMM allows for a soft segmentation where customers are assigned cluster label probabilities which is useful for distinguishing between customers who are most likely to be high value. 
+
 ### London Bike Share Forecasting - [link](https://github.com/W-Tran/london-bike-share)
 
 A time series analysis of [hourly and daily cycle shares in London](https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset) from 1/1/2015 to 1/1/2017 which examines how weather conditions influence the number of cycle shares on a daily and hourly basis. The analysis performed was adapted from and influenced by a similar analysis on [cycling counts in Auckland, New Zealand](https://cdn.rawgit.com/nicolasfauchereau/Auckland_Cycling/master/notebooks/Auckland_cycling_and_weather.html) with a few distinct differences:
@@ -9,16 +15,12 @@ A time series analysis of [hourly and daily cycle shares in London](https://www.
 - Daily seasonal patterns (conditional on weekday vs weekend) were used to aid the fit of the hourly forecasting model
 - [Simulated historical forecasts](https://facebook.github.io/prophet/docs/diagnostics.html) were used to evaluate the models
 
-### Customer Segmentation - [link](https://github.com/W-Tran/online-Retail)
-
-An analysis of an [E-commerce](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) [dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) which consists of 2 year customer transaction histories for a UK based non-store online retail. I compared the performance of clustering customers based on their 1st year transaction histories using RFM features to clustering on simple monetary aggregation features by evaluating how well they segment 2nd year customers into value groups.
-
-### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
-Using the same online retail data set, I produced a classification model to predict whether a customer will purchase within the next month. The model is trained using the previous L (lag) month's transactions as labels whilst RFM, temporal, and monetary aggregation features were used to train the model in order to predict whether a customer will purchase within the next month. Calibration and holdout sets needed to be created for each observation end period to prevent data leakage, akin to how one would split time series data.
-
 ### Uplift modelling for Direct Marketing - [link](https://github.com/W-Tran/uplift-modelling)
 
 Who should marketers send promotional offers to in order to retain customers and increase profit? blindly contacting customers could result in the opposite intended effect [("sleeping dogs")](http://stochasticsolutions.com/pdf/CrossSell.pdf). This project follows the methodology of a [recent paper](https://journals.sagepub.com/doi/10.1509/jmr.16.0163) in order to show the effectiveness of uplift modelling on a popular [marketing dataset](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html). I use the Pylift package which implements the transformed outcome method for uplift modelling. 
+
+### Predicting next purchase month - [link](https://github.com/W-Tran/predicting-next-purchase)
+Using the same dataset and daily aggregation statistics as in the [Customer Segmentation project](https://github.com/W-Tran/online-retail), I built a ML classifier to predict whether a customer will purchase within the next month. The data was split into holdout and calibration sets, akin to time series cross validation, to avoid data leakage.
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
