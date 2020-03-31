@@ -36,7 +36,7 @@ Microsoft Professional Program for Artificial Intelligence [capstone project](ht
 
 ### (Kaggle) Home Credit Risk modelling - [link](https://github.com/W-Tran/home-credit-default-risk)
 
-A Kaggle competition that was studied and worked through using the guidance of other community member's notebooks. Gained experience creating and aggregating data across multiple relational tables and using it to build a LightGBM classifier which scales well with the large amount of data being utilied. Also automatically tune the classifier using [HyperOpt](https://github.com/hyperopt/hyperopt).
+A Kaggle competition that was studied and worked through using the guidance of other community member's notebooks. Gained experience creating and aggregating data across multiple tables from a relational database and using the data to build a LightGBM classifier which scales well with the large amount of data available. Also automatically tune the classifier using [HyperOpt](https://github.com/hyperopt/hyperopt).
 
 ### (Udacity) A/B testing by Google - [link](https://github.com/W-Tran/ab-testing-udacity)
 
