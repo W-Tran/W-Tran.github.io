@@ -24,7 +24,7 @@ Using the same dataset and daily aggregation statistics as in the [Customer Segm
 
 ### (Kaggle) Advanced Regression Techniques - [link](https://github.com/W-Tran/advanced-regression-techniques)
 
-A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model found for this data was a simple OLSR using engineered features selected using [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal as model interpretability was a priority and was discussed at length torwards the end of the project notebook.   
+A "knowledge" [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) hosted to practice feature engineering and apply advanced regression models like random forests and gradient boosting. Many models were tried but the best performing model one was a simple OLS using engineered features that were selected with [Sequential Feature Selection](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/). A simple linear model was ideal since model interpretability was a priority and was discussed at length torwards the end of the project notebook.   
 
 ### (Microsoft DAT102x) Predicting Evictions - [link](https://github.com/W-Tran/DAT102x-Predicting-Evictions)
 
